@@ -16,9 +16,13 @@
 <h3>TECHNOLOGY SKILLS</h3>
 Expertise: JavaScript, REST API, React.js, React Router, HTML5, CSS3, Node.js, MongoDB, Mongoose, Express.js, Next JS, 
 CSS Library: Tailwind CSS, Bootstrap 5
+
 Comfortable: React Native, Socket.io, WebRTC, electron, Python, Django, AWS S3, Typescript, Redux, Redux Toolkit, RTK Query, Tensorflow.js
+
 Tools: GitHub, VsCode, Chrome Dev Tools, Netlify, Heroku, Firebase, Vercel
+
 Extra Skills: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D, Microsoft Excel, Excel Formulas, Excel Macros
+
 Payment Gateways: Stripe, SSLCOMMERZ
 
 <h3 align="left">Connect with me:</h3>
