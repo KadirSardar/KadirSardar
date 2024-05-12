@@ -11,7 +11,7 @@
 
 - 📫 Reach me by email - **kadirsardar38@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kQZ0MlFQeRt7tuoXFGTasnVCPNw3-n-j/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1kQZ0MlFQeRt7tuoXFGTasnVCPNw3-n-j/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
 Expertise: JavaScript, REST API, React.js, React Router, HTML5, CSS3, Node.js, MongoDB, Mongoose, Express.js, Next JS, 
